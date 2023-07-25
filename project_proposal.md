@@ -1,6 +1,6 @@
-Project Title: Next Movie Production
+# Project Title: Next Movie Production
 
-Team Members:Group 6
+Team Members: Group 6
 
 Project Description: We are exploring movies data to identify revenue trends, and any correlations between various actors, genres, awards and revenues from a business standpoint with the ultimate
 goal of picking the right ingredients to make a successful movie.
