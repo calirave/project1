@@ -1,10 +1,13 @@
 # MSU Data Analytics Project 1 - Group 6
+- Annely Manguera
+- Azi Farooquee
+- Peter Solis
 
 ## Scenario:
 
 We have been tasked with exploring data on movies to identify revenue trends and potential correlations with various actors, genres, release windows, etc. with the ultimate goal of picking the right ingredients to make a successful movie.
 
-### Factors We Intend to Investigate:
+## Factors We Intend to Investigate:
 1. Movie revenue by release month
 2. Movie genre revenue by release month
 3. Revenue by genre
