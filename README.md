@@ -19,14 +19,14 @@ We have been tasked with exploring data on movies to identify revenue trends and
 
 ## File Structure Explanation:
 (In order of workflow)
- - Data Manipulation: Directory containing all code & data.
+- Data Manipulation: Directory containing all code & data.
   - Data Retrieval Code: API calls and other code used specifically to retrieve raw data.
   - Raw Data: Most base form of data, before being cleaned or manipulated.
   - Data Cleaning Code: Code focusing on cleaning up and manipulating the data, then using that data to create visualizations.
   - Cleaned Data: Final, clean datasets used for the creation of visualizations
- - Analysis: Directory containing our findings and visuals created from the cleaned data.
+- Analysis: Directory containing our findings and visuals created from the cleaned data.
   - Visualizations: Visuals created from cleaned data.
   - Analysis & Presentation: Final write-up and slide presentation analyzing the factors investigated.
- - project_proposal.md: Initial proposal for the project. 
+- project_proposal.md: Initial proposal for the project. 
   
 Data sourced from themoviedb.org using TMDb API.
