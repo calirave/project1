@@ -13,7 +13,7 @@ Questions to consider:
 3. Franchise or comic-based movies revenue performance vs non-franchise movies
 4. Revenues per genre
 5. Movie rating's correlation to revenue
-6. Movie rating's correlation to Oscar awards
+6. Movie rating's correlation to Director
 7. What are better times of the year for certain genres of movies to be released
 8. Is higher revenue related to awards
 9. Initial investment vs revenue (ROI calculation)
