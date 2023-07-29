@@ -19,15 +19,15 @@ We have been tasked with exploring data on movies to identify revenue trends and
 
 ## File Structure Explanation:
 (In order of workflow)
-- Data Manipulation: Directory containing all code & data.
-  - Data Retrieval Code: API calls and other code used specifically to retrieve raw data.
-  - Raw Data: Most base form of data, before being cleaned or manipulated.
-  - Data Cleaning Code: Code focusing on cleaning up and manipulating the data, then using that data to create visualizations.
+- Data Manipulation: Directory containing all code & data
+  - Data Retrieval: API calls and other code used specifically to retrieve raw data
+  - Raw Data: Most base form of data, before being cleaned or manipulated
+  - Data Cleaning and Manipulation: Code focusing on cleaning up and manipulating the data, then using that data to create visualizations
   - Cleaned Data: Final, clean datasets used for the creation of visualizations
-- Analysis: Directory containing our findings and visuals created from the cleaned data.
-  - Visualizations: Visuals created from cleaned data.
-  - Analysis & Presentation: Final write-up and slide presentation analyzing the factors investigated.
-- project_proposal.md: Initial proposal for the project. 
+- Analysis: Directory containing our findings and visuals created from the cleaned data
+  - Visualizations: Visuals created from cleaned data
+  - Analysis & Presentation: Final write-up and slide presentation analyzing the factors investigated
+- project_proposal.md: Initial proposal for the project.
 
 ## Final Data Points:
 - Movie ID: The movie's unique identifier on themoviedb.org
@@ -45,7 +45,7 @@ We have been tasked with exploring data on movies to identify revenue trends and
 - Release Year
 - Genre 1-5: A list of up to 5 genres the movie falls under
 - Runtime (Minutes): Length of the movie
-- 1st-3rd Billing: Top 3 credited actors
+- 1st-5th Billing: Top 5 credited actors
 - Director
 
 Data sourced from https://www.themoviedb.org/ using TMDb API.
