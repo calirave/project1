@@ -50,4 +50,4 @@ We have been tasked with exploring data on movies to identify revenue trends and
 
 Data sourced from https://www.themoviedb.org/ using TMDb API.
 
-https://pandas.pydata.org/docs/ was used as a reference during coding.
+https://pandas.pydata.org/docs/ and https://matplotlib.org/ were used as references during coding.
