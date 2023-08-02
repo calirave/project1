@@ -15,7 +15,6 @@ We have been tasked with exploring data on movies to identify revenue trends and
 5. Actors' correlation to a movie's success
 6. Directors' correlation to movie's success
 7. Franchise or comic-based movies revenue performance vs non-franchise movies 
-8. Movie rating's correlation to revenue
 
 ## File Structure Explanation:
 (In order of workflow)
